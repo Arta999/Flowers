@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFCDD2"
-    tools:context=".ui.home.HomeFragment">
+    tools:context="ru.arta999.flowers.ui.home.HomeFragment">
 
     <ImageView
         android:id="@+id/imageView"

@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "ru.arta999.vkladki002"
+        applicationId "ru.arta999.flowers"
         minSdk 21
         targetSdk 31
         versionCode 1

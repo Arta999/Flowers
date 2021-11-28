@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#B72CEDC7"
-    tools:context=".ui.notifications.NotificationsFragment">
+    tools:context="ru.arta999.flowers.ui.notifications.NotificationsFragment">
 
     <ImageView
         android:id="@+id/imageView3"

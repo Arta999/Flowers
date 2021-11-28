@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ru.arta999.vkladki002">
+    package="ru.arta999.flowers">
 
     <application
         android:allowBackup="true"
@@ -8,9 +8,9 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Vkladki002">
+        android:theme="@style/Theme.flowers">
         <activity
-            android:name=".MainActivity"
+            android:name="ru.arta999.flowers.MainActivity"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>
